@@ -5,5 +5,6 @@ public class forca
 		{
 			System.out.println("Hello World");	
 		}
+		System.out.println("Sick of for loops");
 	}
 }
